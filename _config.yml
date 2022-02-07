@@ -56,8 +56,6 @@ kramdown:
 adsense: "enabled"
 adsense-data-ad-client: "ca-pub-9930381575924254"
 adsense-data-ad-slot: "5680466859"
-adsense-data-ad-format: "auto"
-adsense-data-full-width-responsive: "true"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
