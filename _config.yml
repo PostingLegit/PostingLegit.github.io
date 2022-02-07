@@ -2,8 +2,8 @@
 name: "Posting Legit"
 title: "¡Vealó aquí primero!"
 description: "¡Únete y disfruta de las mejores noticias a tiempo! Mantente en la cresta de la información sobre #Videojuegos"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logosinfondo.png'
+favicon: 'assets/images/logosinfondo.png'
 baseurl: /postinglegit.github.io
 google_analytics: 'UA-46278016-1'
 disqus: 'ComingSoon'
