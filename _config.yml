@@ -4,7 +4,7 @@ title: "¡Vealó aquí primero!"
 description: "¡Únete y disfruta de las mejores noticias a tiempo! Mantente en la cresta de la información sobre #Videojuegos"
 logo: 'assets/images/logosinfondo.png'
 favicon: 'assets/images/logosinfondo.png'
-baseurl: "/postinglegit.github.io"
+baseurl: "https://github.com/PostingLegit/postinglegit.github.io"
 google_analytics: 'UA-46278016-1'
 disqus: 'ComingSoon'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
